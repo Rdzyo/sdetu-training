@@ -6,6 +6,6 @@ public class HelloWorld
 	{
 		System.out.println("Hello World!");
 		System.out.println("Adding code to the project");
-		System.out.print("Adding code to the project");
+		System.out.println("Adding code from github");
 	}
 }
