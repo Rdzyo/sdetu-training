@@ -1,2 +1,4 @@
 /Demo.class
 /CommonExceptions.class
+/NegativePaymentException.class
+/PaymentsApp.class
